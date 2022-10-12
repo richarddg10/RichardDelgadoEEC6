@@ -1,0 +1,153 @@
+.fondoGeneral {
+    position: relative;
+    width: 350px;
+    height: 551px;
+    margin-top: 15px;
+    margin-left: 400px;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid rgb(200, 200, 200);
+}
+
+.fondoArriba {
+    display: flex;
+    position: relative;
+    width: 350px;
+    height: 66px;
+    border-radius: 10px;
+    color: white;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+#fotoPerfilPosts {
+    width: 50px;
+    top: 8px;
+    margin-left: 20px;
+    position: absolute;
+}
+
+#nombreUsuario {
+    color: black;
+    font-size: 15px;
+    font-family: Arial;
+    top: 0px;
+    left: 80px;
+    position: absolute;
+}
+
+#ubicacion {
+    color: gray;
+    font-size: 8px;
+    font-family: Arial;
+    position: absolute;
+    top: 33px;
+    left: 80px;
+}
+
+#punticosOpciones {
+    width: 25px;
+    position: absolute;
+    top: 30px;
+    left: 304px;
+}
+
+#publicacion {
+    width: 220px;
+    height: 270px;
+    position: absolute;
+    top: 105px;
+    left: 70px;
+}
+
+.contenedorIconos {
+    display: flex;
+    justify-content: flex;
+    align-items: center;
+    gap: 15px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+#heart {
+    width: 20px;
+}
+
+#comentario {
+    width: 20px;
+}
+
+#share {
+    width: 20px;
+}
+
+#save {
+    position: absolute;
+    width: 15px;
+    top: 10px;
+    left: 312px;
+}
+
+.fondoAbajo {
+    position: relative;
+    width: 350px;
+    height: 145px;
+    border-radius: 10px;
+    color: white;
+    border-top: 1px solid #dfdfdf;
+    top: 340px;
+}
+
+#nombreUsuarioComentario {
+    color: black;
+    font-size: 11px;
+    font-family: Arial;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+}
+
+#miComentario1 {
+    color: black;
+    font-size: 10px;
+    font-family: Arial;
+    position: absolute;
+    top: 32px;
+    left: 100px;
+}
+
+#miComentario2 {
+    color: black;
+    font-size: 10px;
+    font-family: Arial;
+    position: absolute;
+    top: 44px;
+    left: 20px;
+}
+
+#fechaPublicacion {
+    font-size: 9px;
+    font-family: Arial;
+    font-style: italic;
+    color: gray;
+    position: absolute;
+    top: 110px;
+    left: 20px;
+}
+
+.boton {
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    gap: 2px;
+}
+
+#cantidadLikes {
+    font-family: Arial;
+}
+
+#botonLikes {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}

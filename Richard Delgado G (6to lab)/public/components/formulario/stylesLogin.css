@@ -1,0 +1,99 @@
+.input {
+    width: 1000px;
+    height: 1000px;
+    align-items: center;
+    position: relative;
+}
+
+.fondoInput {
+    width: 350px;
+    height: 400px;
+    top: 100px;
+    left: 700px;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    border-color: rgb(175, 175, 175);
+    background-color: white;
+    position: relative;
+}
+
+#logoIG {
+    width: 150px;
+    left: 90px;
+    top: 70px;
+    position: absolute;
+}
+
+#email {
+    width: 250px;
+    height: 35px;
+    font-family: Helvetica;
+    font-size: 10.5pt;
+    font-weight: normal;
+    top: 170px;
+    left: 45px;
+    color: rgb(55, 55, 55);
+    position: absolute;
+}
+
+#contraseña {
+    width: 250px;
+    height: 35px;
+    font-family: Helvetica;
+    font-size: 10.5pt;
+    font-weight: normal;
+    top: 220px;
+    left: 45px;
+    color: rgb(55, 55, 55);
+    position: absolute;
+}
+
+#iniciarSesión {
+    width: 258px;
+    height: 30px;
+    top: 280px;
+    left: 45px;
+    border: none;
+    border-radius: 4px;
+    background-color: #3e95ef;
+    color: white;
+    position: absolute;
+}
+
+.fondoInput2 {
+    width: 350px;
+    height: 60px;
+    top: 520px;
+    left: 700px;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    border-color: rgb(175, 175, 175);
+    background-color: white;
+    position: absolute;
+}
+
+#infoRegistro {
+    font-family: Helvetica;
+    font-size: 10.5pt;
+    font-weight: 350;
+    top: 8px;
+    left: 63px;
+    color: black;
+    position: absolute;
+}
+
+#registrate {
+    font-family: Helvetica;
+    font-size: 10.5pt;
+    font-weight: bold;
+    top: 22px;
+    left: 218px;
+    text-decoration: none;
+    color: #3e95ef;
+    position: absolute;
+}
+
+#telefonoLogin {
+    width: 400px;
+    top: 50px;
+    left: 250px;
+    position: absolute;
+}

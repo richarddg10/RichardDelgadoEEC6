@@ -1,0 +1,35 @@
+.fondoHistorias {
+    position: relative;
+    background-color: white;
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 10px;
+    width: 350px;
+    height: 100px;
+    margin-top: 25px;
+    margin-left: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+}
+
+#fotoPerfilHistorias {
+    width: 60px;
+    left: 20px;
+    top: 8px;
+}
+
+#nombreUsuarioHistorias {
+    width: 40px;
+    left: 20px;
+    color: black;
+    font-size: 12px;
+    font-family: Arial;
+    font-weight: lighter;
+}
+
+#flechaHistorias {
+    width: 30px;
+    left: 300px;
+    position: absolute;
+}

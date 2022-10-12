@@ -1,0 +1,69 @@
+.fondoSugerencias {
+    position: relative;
+    left: 800px;
+    width: 350px;
+    height: 76px;
+    top: 40px;
+}
+
+.fondoTitulosSugerencias {
+    position: relative;
+    left: 800px;
+    width: 350px;
+    height: 50px;
+    top: 305px;
+    display: flex;
+}
+
+#tituloSugerencias {
+    position: absolute;
+    color: gray;
+    font-size: 15px;
+    font-family: Arial;
+    left: 20px;
+}
+
+#verTodo {
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Arial;
+    left: 275px;
+    top: 3px;
+}
+
+#fotoSugerencias {
+    position: absolute;
+    width: 60px;
+    left: 20px;
+    top: 8px;
+}
+
+#nombreUsuarioSugerencias {
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Arial;
+    top: 13px;
+    left: 95px;
+}
+
+#userInfo {
+    color: gray;
+    font-size: 10px;
+    font-family: Arial;
+    font-weight: lighter;
+    top: 30px;
+    left: 95px;
+    position: absolute;
+}
+
+#opcionSeguir {
+    color: deepskyblue;
+    font-size: 11px;
+    font-family: Arial;
+    font-weight: bold;
+    position: absolute;
+    top: 26px;
+    left: 290px;
+}
