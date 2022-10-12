@@ -1,2 +1,0 @@
-# RichardDelgadoEEC6
-RichardDelgadoEEC6
